@@ -382,7 +382,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Hi</text>
+              <text>Hit</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -398,7 +398,7 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <text>tna</text>
+              <text>na</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -439,7 +439,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>je</text>
+              <text>jed</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -457,7 +457,7 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>dna</text>
+              <text>na</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -716,12 +716,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>va</text>
+              <text>važ</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>va</text>
+              <text>važ</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -733,13 +733,13 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <text>žno</text>
+              <text>no</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <text>žno</text>
+              <text>no</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1114,7 +1114,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>i</text>
+              <text>iz</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -1126,7 +1126,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text>zgu</text>
+              <text>gub</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -1144,7 +1144,7 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>bljen</text>
+              <text>ljen</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -1195,6 +1195,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>9</root>
@@ -1319,7 +1322,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>s Mi</text>
+              <text>s Mir</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1335,7 +1338,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text>rja</text>
+              <text>ja</text>
               </Lyrics>
             <Note>
               <pitch>63</pitch>
@@ -1430,12 +1433,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>i</text>
+              <text>is</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>pje</text>
+              <text>pjes</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -1446,13 +1449,13 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>spri</text>
+              <text>pri</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <text>snik</text>
+              <text>nik</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
